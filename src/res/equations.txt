@@ -1,0 +1,60 @@
+fraction:\frac{abc}{xyz}
+square root:\sqrt{abc}
+nth root:\sqrt[n]{abc}
+underline:\underline{abc}
+over right arrow:\overrightarrow{abc}
+up arrow:\uparrow 
+double down arrow:\Downarrow 
+sum:\sum_{i=1}^{2n}
+integral:\int_a^b
+theta:\theta 
+sin:\sin(x)
+cos:\cos{x}
+plus minus:\pm 
+center dot:\cdot 
+divide:\div 
+left arrow:\leftarrow 
+long right arrow:\longrightarrow 
+infinity:\infty 
+right left arrows:\rightleftarrows 
+circle arrow right:\circlearrowright 
+delta:\Delta 
+vertical dots:\vdots 
+angle:\angle 
+check mark:\surd 
+text:\text{TEXT}
+small text:\small{TEXT}
+large text:\large{TEXT}
+times:\times 
+pi:\pi 
+sigma:\Sigma 
+psi:\psi 
+mu:\mu 
+omega:\omega 
+phi:\phi 
+f prime:f' 
+cup:\cup 
+not equal:\neq 
+prime:\prime 
+sharp:\sharp 
+copyright:\copyright 
+bold text:\textbf{TEXT}
+italic text:\textit{TEXT}
+jlatexmath:\JLaTeXMath
+power:n^{abc}
+subscript:n_{abc}
+full square brackets:\left[\frac{abc}{abc}\right]
+vertical space:\vspace{10mm}
+horizontal space:\hspace{10mm}
+derivative:\frac{dy}{dx}
+double derivative:\frac{d^2y}{d^2x}
+to:\to
+limit:\lim_{x\to\infty}
+double integral:\iint_a^b
+perpendicular:\perp 
+parallel:\parallel 
+gap:\quad 
+framed box:\fbox{abc}
+red coloured box:\colorbox{red}{abc}
+red framed cyan coloured box:\fcolorbox{red}{cyan}{abc}
+quadratic formula:\frac{-b\pm\sqrt{b^2-4ac}}{2a}
